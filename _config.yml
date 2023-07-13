@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yi Zhou"
+title                    : "Yi Zhou's Homepage"
 title_separator          : "-"
 name                     : &name "Yi Zhou"
-description              : &description "M.S. Student, College of Computer Science, Sichuan University"
+description              : &description "M.S. Student, Sichuan University"
 url                      : https://echochou990919.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "echochou990919.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yi Zhou"
+  name             : "Yi Zhou (周怡)"
   avatar           : "profile.png"
-  bio              : "M.S. Student, College of Computer Science, Sichuan University"
+  bio              : "M.S. Student, Sichuan University"
   location         : Chengdu, China
   employer         :
   pubmed           : 
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/EchoChou990919"
+  github           : "EchoChou990919"
   google_plus      :
   keybase          :
   instagram        :
