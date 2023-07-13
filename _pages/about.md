@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yi Zhou"
+title: "About me"
 excerpt: "Yi Zhou"
 author_profile: true
 redirect_from: 
