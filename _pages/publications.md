@@ -11,13 +11,13 @@ Here is a [blog]() introducing the progress of my research.
 
 # Journal / Conference Papers
 
-- LDAformer: Predicting LncRNA-Disease Associations based on Topological Feature Extraction and Transformer Encoder  
+- [J1] LDAformer: Predicting LncRNA-Disease Associations based on Topological Feature Extraction and Transformer Encoder  
 **Yi Zhou**, Xinyi Wang, Lin Yao, Min Zhu.  
-Briefings in Bioinformatics (JCR-Q1, IF: 9.5)  
+Briefings in Bioinformatics (BIB), 2022 (JCR-Q1, IF: 9.5)  
 
-- GBDT4CTRVis: Visual Analytics of Gradient Boosting Decision Tree for Advertisement Click-Through Rate Prediction  
+- [C1] GBDT4CTRVis: Visual Analytics of Gradient Boosting Decision Tree for Advertisement Click-Through Rate Prediction  
 Wenwen Gao, Shangsong Liu, **Yi Zhou**, Fengjie Wang, Feng Zhou, Min Zhu  
-China Visualization and Visual Analytics Conference, 2023  
+China Visualization and Visual Analytics Conference (ChinaVis), 2023  
 
 # Preprints
 
@@ -30,7 +30,7 @@ Jiamin Zhu, Meixuan Wu, **Yi Zhou**, Haotian Zhu, Min Zhu
 # Patents
 
 - Method and System for Long Non-coding RNA-Disease Association Prediction Based on Self-Attention Mechanism.  
-Min Zhu, **Yi Zhou**, Xinyi Wang, Lin Yao  
+Min Zhu, **Yi Zhou**, Xinyi Wang, Lin Yao (1st student author)  
 CN115171780A  
 - An Analytical Task Perception Method that Integrates Deep Learning Models and Rules  
 Min Zhu, Meixuan Wu, Jiamin Zhu, **Yi Zhou**, Haotian Zhu  
@@ -45,7 +45,7 @@ CN115831217A
 Min Zhu, Fuqiu Chen, Chunlin Long, **Yi Zhou**, Xinyi Wang  
 CN113946730A  
 - Method and System for Predicting Chromatin Topologically Associating Domains Based on Spectral Clustering  
-Min Zhu, Chunlin Long, Mingyang Zhang, Xinyi Wang, **Yi Zhou**
+Min Zhu, Chunlin Long, Mingyang Zhang, Xinyi Wang, **Yi Zhou**  
 CN114444286A  
 
 <!-- {% if author.googlescholar %}

@@ -12,13 +12,18 @@ redirect_from:
 # Education
 
 - College of Computer Science, Sichuan University, 2024 (expected)  
-M.S. in Computer Science and Technology  
+M.S. in Computer Science and Technology, GPA: 3.76/4  
 - College of Computer Science, Sichuan University, 2021  
-B.E. in Computer Science and Technology  
+B.E. in Computer Science and Technology, GPA: 3.77/4  
 
 # Responsibilities
 
-- Living Manager
+- Mentor of Bioinformatics Group, Vision Computing Lab  
+  Mentoring Meixuan Wu, Chengzhou Ouyang, Xiyao Li, Wanjing Zhang, Lin Gan  
+  Gogoing Projects: Prediction of various RNA-disease associations, Prediction of Enhancer-Promoter interactions, Prediction of RNA-Protein interactions.  
+
+- Living Manager, Vision Computing Lab  
+  Responsible for all non-working tasks  
 
 # Awards
 
