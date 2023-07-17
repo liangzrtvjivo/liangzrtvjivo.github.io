@@ -7,7 +7,7 @@ author_profile: true
 
 <!-- Here is a [blog]() introducing my improvements in research.   -->
 
-Here is a [blog](https://echochou990919.github.io/posts/blog-post-2/) introducing the progress of my research.
+Here is a [blog](https://echochou990919.github.io/posts/blog-post-2/) introducing the progress of my works, how the recent work (the preprint) is an improvement over the one published last year.  
 
 # Papers
 

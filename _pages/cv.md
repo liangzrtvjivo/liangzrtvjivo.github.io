@@ -20,7 +20,7 @@ B.E. in Computer Science and Technology, GPA: 3.77/4
 
 # Responsibilities
 
-- Mentor of Bioinformatics Group, Vision Computing Lab, 2021-Present  
+- Mentor of Bioinformatics Group, Vision Computing Lab, 2022-Present  
 **Mentoring** Meixuan Wu, Chengzhou Ouyang, Xiyao Li, Wanjing Zhang and Lin Gan  
 Gogoing Projects: Prediction of Various RNA-disease associations, Prediction of Enhancer-Promoter interactions, Prediction of RNA-Protein interactions  
 - Living Manager, Vision Computing Lab, 2021-Present  
