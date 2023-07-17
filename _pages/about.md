@@ -12,7 +12,7 @@ Hello everyone! I am Yi Zhou, now a last-year master's student in the [Vision Co
 
 My current background is in bioinformatics and data visualization, devoted to proposing effective and explainable link prediction methods on biomedical interaction graphs. My research interests are **Graph Machine Learning** and **Data Mining**, especially towards knowledge understanding in real-world scenarios: identifying valuable problems, improving learning methods, and ensuring the conducted insights are trustworthy.
 
-I am looking for a Ph.D. position in 24 Fall preferably, and here is a [blog]() introducing my strong self-motivation. It's widely said that "connection is all you need" for the Ph.D. application, and while I currently have few connections with the community of Graph. However, let's look at it positively from the perspective of "Link Prediction", what an exciting process of cold start! I would appreciate any opportunity for collaboration.  
+<font color="#660000">I am looking for a Ph.D. position in 24 Fall preferably</font>, and here is a [blog]() introducing my strong self-motivation. It's widely said that "connection is all you need" for the Ph.D. application, and while I currently have few connections with the community of Graph. However, let's look at it positively from the perspective of "Link Prediction", what an exciting process of cold start! I would appreciate any opportunity for collaboration.  
 
 # News
 
