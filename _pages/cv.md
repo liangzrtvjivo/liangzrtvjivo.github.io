@@ -9,7 +9,7 @@ redirect_from:
 
 <!-- {% include base_path %} -->
 
-Please kindly find my [Curriculum Vitae](https://echochou990919/files/YiZhou_CV.pdf).
+Please kindly find my [Curriculum Vitae](https://echochou990919.github.io/files/YiZhou_CV.pdf).
 
 # Education
 
