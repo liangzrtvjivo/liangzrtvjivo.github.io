@@ -11,7 +11,7 @@ Here is a [blog](https://echochou990919.github.io/posts/blog-post-2/) introducin
 
 # Papers
 
-- LDAformer: Predicting LncRNA-Disease Associations based on Topological Feature Extraction and Transformer Encoder [[PDF]](https://echochou990919.github.io/files/LDAformer.pdf) [[DOI]](https://doi.org/10.1093/bib/bbac370) [[Code]](https://github.com/EchoChou990919/LDAformer)  
+- LDAformer: Predicting LncRNA-Disease Associations based on Topological Feature Extraction and Transformer Encoder [[PDF]](https://echochou990919.github.io/files/LDAformer.pdf) [[DOI]](https://doi.org/10.1093/bib/bbac370) [[Github]](https://github.com/EchoChou990919/LDAformer)  
 **Yi Zhou**, Xinyi Wang, Lin Yao, Min Zhu  
 Briefings in Bioinformatics (BIB), 2022 (JCR-Q1, IF: 9.5)  
 
@@ -21,7 +21,7 @@ China Visualization and Visual Analytics Conference (ChinaVis), 2023
 
 # Preprints
 
-- Generalizable Prediction of Potential MiRNA-Disease Association based on Heterogeneous Graph Learning [[PDF]](https://echochou990919.github.io/files/EGPMDA.pdf) [[arXiv]]() [[Code]](https://github.com/EchoChou990919/EGPMDA)  
+- Generalizable Prediction of Potential MiRNA-Disease Association based on Heterogeneous Graph Learning [[PDF]](https://echochou990919.github.io/files/EGPMDA.pdf) [[arXiv]]() [[Github]](https://github.com/EchoChou990919/EGPMDA)  
 **Yi Zhou**, Meixuan Wu, Chengzhou Ouyang, Xinyi Wang, Min Zhu  
 Briefings in Bioinformatics (BIB) *(Under Review)*
 

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Experiences"
+title: "Experience"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -13,17 +13,17 @@ Please kindly find my [Curriculum Vitae](https://echochou990919.github.io/files/
 
 # Education
 
-- College of Computer Science, Sichuan University, 2024 (expected)  
+- College of Computer Science, Sichuan University, 2024 (Expected)  
 M.S. in Computer Science and Technology, GPA: 3.76/4  
 - College of Computer Science / Wu Yuzhang Honors College, Sichuan University, 2021  
 B.E. in Computer Science and Technology, GPA: 3.77/4  
 
 # Responsibilities
 
-- Mentor of Bioinformatics Group, Vision Computing Lab  
-Mentoring Meixuan Wu, Chengzhou Ouyang, Xiyao Li, Wanjing Zhang, Lin Gan  
-Gogoing Projects: Prediction of various RNA-disease associations, Prediction of Enhancer-Promoter interactions, Prediction of RNA-Protein interactions.  
-- Living Manager, Vision Computing Lab  
+- Mentor of Bioinformatics Group, Vision Computing Lab, 2021-Present  
+**Mentoring** Meixuan Wu, Chengzhou Ouyang, Xiyao Li, Wanjing Zhang and Lin Gan  
+Gogoing Projects: Prediction of Various RNA-disease associations, Prediction of Enhancer-Promoter interactions, Prediction of RNA-Protein interactions  
+- Living Manager, Vision Computing Lab, 2021-Present  
 Responsible for all non-working tasks  
 
 # Awards
