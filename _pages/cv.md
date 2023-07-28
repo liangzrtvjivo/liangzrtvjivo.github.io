@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Experience"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -18,7 +18,7 @@ M.S. in Computer Science and Technology, GPA: 3.76/4
 - College of Computer Science / Wu Yuzhang Honors College, Sichuan University, 2021  
 B.E. in Computer Science and Technology, GPA: 3.77/4  
 
-# Responsibilities
+# Positions
 
 - Mentor of Bioinformatics Group, Vision Computing Lab, 2022-Present  
 **Mentoring** Meixuan Wu, Chengzhou Ouyang, Xiyao Li, Wanjing Zhang and Lin Gan  

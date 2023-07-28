@@ -7,23 +7,23 @@ author_profile: true
 
 <!-- Here is a [blog]() introducing my improvements in research.   -->
 
-Here is a [blog](https://echochou990919.github.io/posts/blog-post-2/) introducing the progress of my works, how the recent work (the preprint) is an improvement over the one published last year.  
+<!-- Here is a [blog](https://echochou990919.github.io/posts/blog-post-2/) introducing the progress of my works, how the recent work (the preprint) is an improvement over the one published last year.   -->
 
 # Papers
 
-- LDAformer: Predicting LncRNA-Disease Associations based on Topological Feature Extraction and Transformer Encoder [[PDF]](https://echochou990919.github.io/files/LDAformer.pdf) [[DOI]](https://doi.org/10.1093/bib/bbac370) [[Github]](https://github.com/EchoChou990919/LDAformer)  
+- LDAformer: Predicting LncRNA-Disease Associations based on Topological Feature Extraction and Transformer Encoder [[PDF]](https://echochou990919.github.io/files/LDAformer.pdf) [[DOI]](https://doi.org/10.1093/bib/bbac370) [[GitHub]](https://github.com/EchoChou990919/LDAformer)  
 **Yi Zhou**, Xinyi Wang, Lin Yao, Min Zhu  
 Briefings in Bioinformatics (BIB), 2022 (JCR-Q1, IF: 9.5)  
 
-- GBDT4CTRVis: Visual Analytics of Gradient Boosting Decision Tree for Advertisement Click-Through Rate Prediction [[PDF]](https://echochou990919.github.io/files/GBDT4CTRVis.pdf) [[Video]](https://www.bilibili.com/video/BV1Wm4y1E7Q1)  
+- GBDT4CTRVis: Visual Analytics of Gradient Boosting Decision Tree for Advertisement Click-Through Rate Prediction [[PDF]](https://echochou990919.github.io/files/GBDT4CTRVis.pdf) [[Video]](https://www.bilibili.com/video/BV1Wm4y1E7Q1)[[Slide]](https://echochou990919.github.io/files/GBDT4CTRVis_Slides.pptx)  
 Wenwen Gao, Shangsong Liu, **Yi Zhou**, Fengjie Wang, Feng Zhou, Min Zhu  
 China Visualization and Visual Analytics Conference (ChinaVis), 2023  
 
 # Preprints
 
-- Generalizable Prediction of Potential MiRNA-Disease Association based on Heterogeneous Graph Learning [[PDF]](https://echochou990919.github.io/files/EGPMDA.pdf) [[arXiv]]() [[Github]](https://github.com/EchoChou990919/EGPMDA)  
+- Generalizable Prediction of Potential MiRNA-Disease Association based on Heterogeneous Graph Learning [[PDF]](https://echochou990919.github.io/files/EGPMDA.pdf) [[arXiv]](http://arxiv.org/abs/2307.07957) [[GitHub]](https://github.com/EchoChou990919/EGPMDA)  
 **Yi Zhou**, Meixuan Wu, Chengzhou Ouyang, Xinyi Wang, Min Zhu  
-Briefings in Bioinformatics (BIB) *(Under Review)*
+<!-- Briefings in Bioinformatics (BIB) *(Under Review)* -->
 
 # Patents
 
@@ -55,7 +55,7 @@ CN114444286A *(Under Substantial Examination)*
 
 # Other Available Works
 
-- Sichuan University - Huawei MindSpore Application Case Implementation Project: Swin Transformer [[Github]](https://github.com/EchoChou990919/mindspore_swin_transformer)  
+- Sichuan University - Huawei MindSpore Application Case Implementation Project: Swin Transformer [[GitHub]](https://github.com/EchoChou990919/mindspore_swin_transformer)  
 **Yi Zhou**, Xiyao Li, Wanjing Zhang  
 - Dowsing: A Task-Driven Approach for Multiple-View Visualizations Dynamic Recommendation [[Webpage]](https://dowsing-machine.github.io/) [[Online Demo]](http://dowsing-machine.com/)  
 Jiamin Zhu, Meixuan Wu, **Yi Zhou**, Haotian Zhu, Min Zhu  
