@@ -15,7 +15,7 @@ author_profile: true
 **Yi Zhou**, Xinyi Wang, Lin Yao, Min Zhu  
 Briefings in Bioinformatics (BIB), 2022 (JCR-Q1, IF: 9.5)  
 
-- GBDT4CTRVis: Visual Analytics of Gradient Boosting Decision Tree for Advertisement Click-Through Rate Prediction [[PDF]](https://echochou990919.github.io/files/GBDT4CTRVis.pdf) [[Video]](https://www.bilibili.com/video/BV1Wm4y1E7Q1)[[Slide]](https://echochou990919.github.io/files/GBDT4CTRVis_Slides.pptx)  
+- GBDT4CTRVis: Visual Analytics of Gradient Boosting Decision Tree for Advertisement Click-Through Rate Prediction [[PDF]](https://echochou990919.github.io/files/GBDT4CTRVis.pdf) [[Video]](https://www.bilibili.com/video/BV1Wm4y1E7Q1)[[Slide]](https://echochou990919.github.io/files/GBDT4CTRVis_Slides.pdf)  
 Wenwen Gao, Shangsong Liu, **Yi Zhou**, Fengjie Wang, Feng Zhou, Min Zhu  
 China Visualization and Visual Analytics Conference (ChinaVis), 2023  
 
@@ -40,7 +40,7 @@ CN116204704A *(Under Substantial Examination)*
 Min Zhu, Xiyao Li, Chunlin Long, **Yi Zhou**, Xinyi Wang  
 CN115831217A *(Under Substantial Examination)*  
 - Method and System for Long Non-coding RNA-Disease Association Prediction Based on Self-Attention Mechanism *(Under Substantial Examination)*  
-Min Zhu, **Yi Zhou**, Xinyi Wang, Lin Yao (1st student author)  
+Min Zhu, **Yi Zhou**, Xinyi Wang, Lin Yao (**1st student author**)  
 CN115171780A *(Under Substantial Examination)*  
 - Method and System for Predicting Chromatin Topologically Associating Domains Based on Spectral Clustering  
 Min Zhu, Chunlin Long, Mingyang Zhang, Xinyi Wang, **Yi Zhou**  
