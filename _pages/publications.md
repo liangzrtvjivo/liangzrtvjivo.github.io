@@ -21,9 +21,9 @@ China Visualization and Visual Analytics Conference (ChinaVis), 2023
 
 # Preprints
 
-- Generalizable and explainable Prediction of Potential MiRNA-Disease Association based on Heterogeneous Graph Learning [[PDF]](https://echochou990919.github.io/files/EGPMDA.pdf) [[arXiv]](http://arxiv.org/abs/2307.07957) [[GitHub]](https://github.com/EchoChou990919/EGPMDA)  
+- Generalizable and Explainable Prediction of Potential MiRNA-Disease Association based on Heterogeneous Graph Learning [[PDF]](https://echochou990919.github.io/files/EGPMDA.pdf) [[arXiv]](http://arxiv.org/abs/2307.07957) [[GitHub]](https://github.com/EchoChou990919/EGPMDA)  
 **Yi Zhou**, Meixuan Wu, Chengzhou Ouyang, Min Zhu  
-<!-- Briefings in Bioinformatics (BIB) *(Under Review)* -->
+<!-- Knowledge-Based Systems (KBS) *(Under Review)* -->
 
 # Patents
 

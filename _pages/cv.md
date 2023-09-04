@@ -18,6 +18,10 @@ M.S. in Computer Science and Technology, GPA: 3.76/4
 - College of Computer Science / Wu Yuzhang Honors College, Sichuan University, 2021  
 B.E. in Computer Science and Technology, GPA: 3.77/4  
 
+# Teaching
+
+- Teaching Assistant: Data Visualization (311301030), Sichuan University, Fall 2023
+
 # Positions
 
 - Mentor of Bioinformatics Group, Vision Computing Lab, 2022-Present  
