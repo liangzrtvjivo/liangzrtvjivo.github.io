@@ -39,7 +39,7 @@ CN116204704A *(Under Substantial Examination)*
 - Chromatin Topologically Associating Domains Boundary Prediction Method Based on Multimodal Fusion  
 Min Zhu, Xiyao Li, Chunlin Long, **Yi Zhou**, Xinyi Wang  
 CN115831217A *(Under Substantial Examination)*  
-- Method and System for Long Non-coding RNA-Disease Association Prediction Based on Self-Attention Mechanism *(Under Substantial Examination)*  
+- Method and System for Long Non-coding RNA-Disease Association Prediction Based on Self-Attention Mechanism  
 Min Zhu, **Yi Zhou**, Xinyi Wang, Lin Yao (**1st student author**)  
 CN115171780A *(Under Substantial Examination)*  
 - Method and System for Predicting Chromatin Topologically Associating Domains Based on Spectral Clustering  
