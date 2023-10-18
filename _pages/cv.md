@@ -22,17 +22,24 @@ B.E. in Computer Science and Technology, GPA: 3.77/4
 
 - Teaching Assistant: Data Visualization (311301030), Sichuan University, Fall 2023
 
-# Positions
+# Academic Services
+
+- Journal Reviewers:
+  - Expert Systems With Applications (ESWA)
+
+# Other Positions
 
 - Mentor of Bioinformatics Group, Vision Computing Lab, 2022-Present  
 **Mentoring** Meixuan Wu, Chengzhou Ouyang, Xiyao Li, Wanjing Zhang and Lin Gan  
-Gogoing Projects: Prediction of Various RNA-disease associations, Prediction of Enhancer-Promoter interactions, Prediction of RNA-Protein interactions  
-- Living Manager, Vision Computing Lab, 2021-Present  
+Gogoing Projects: Prediction of various RNA-disease associations, Prediction of enhancer-promoter interactions, Prediction of RNA-protein interactions  
+- Living Manager, Vision Computing Lab, 2021-2023  
 Responsible for all non-working tasks  
 
 # Awards
 
+- Outstanding Graduate of Sichuan University, 2024
+- Outstanding Graduate Student of Sichuan University, 2023
 - First-class of Excellent Graduate Scholarship by Sichuan University, 2023
 - Tencent Scholarship of Sichuan University, 2023
 - Second-class of Excellent Graduate Scholarship by Sichuan University, 2021 and 2022
-- Certificate of Honor from Wu Yuzhang Honors College
+- Certificate of Honor from Wu Yuzhang Honors College, 2021
