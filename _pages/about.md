@@ -22,3 +22,5 @@ My current background is in bioinformatics and data visualization, devoted to pr
 - [Jul. 2023] [EGPMDA](http://arxiv.org/abs/2307.07957) was available online. I discussed the generalizability and explainability of miRNA-disease association prediction.
 - [Jun. 2023] GBDT4CTRVis was accepted by ChinaVis 2023, congrats to Wenwen! It would be transferred to Journal of Visualization soon.
 - [Sep. 2022] [LDAformer](https://doi.org/10.1093/bib/bbac370) was accepted by Briefings in Bioinformatics. It's the best publication ever in the Bioinformatics Group of Vision Computing Lab.
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=5YIfXntv01vuRDhzXoiNvTi3xSidkPjOkBXoTPNv2nI&cl=ffffff&w=a"></script>
