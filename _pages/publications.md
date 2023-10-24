@@ -12,7 +12,7 @@ author_profile: true
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-Please also find my publications on [Google Scholar](https://scholar.google.com/citations?user=yXOpclkAAAAJ) <a href='https://scholar.google.com/citations?user=yXOpclkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+Please also find my publications on [Google Scholar](https://scholar.google.com/citations?user=yXOpclkAAAAJ) (<a href='https://scholar.google.com/citations?user=yXOpclkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 # Papers
 
