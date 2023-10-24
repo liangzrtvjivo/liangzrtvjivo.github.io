@@ -9,6 +9,8 @@ author_profile: true
 
 <!-- Here is a [blog](https://echochou990919.github.io/posts/blog-post-2/) introducing the progress of my works, how the recent work (the preprint) is an improvement over the one published last year.   -->
 
+Please also find my publications on Google Scholar <a href='https://scholar.google.com/citations?user=yXOpclkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+
 # Papers
 
 - LDAformer: Predicting LncRNA-Disease Associations based on Topological Feature Extraction and Transformer Encoder [[PDF]](https://echochou990919.github.io/files/LDAformer.pdf) [[DOI]](https://doi.org/10.1093/bib/bbac370) [[GitHub]](https://github.com/EchoChou990919/LDAformer)  
