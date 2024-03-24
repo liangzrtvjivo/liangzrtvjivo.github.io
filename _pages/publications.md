@@ -18,11 +18,15 @@ Please also find my publications on [Google Scholar](https://scholar.google.com/
 
 - LDAformer: Predicting LncRNA-Disease Associations based on Topological Feature Extraction and Transformer Encoder [[PDF]](https://echochou990919.github.io/files/LDAformer.pdf) [[DOI]](https://doi.org/10.1093/bib/bbac370) [[GitHub]](https://github.com/EchoChou990919/LDAformer)  
 **Yi Zhou**, Xinyi Wang, Lin Yao, Min Zhu  
-Briefings in Bioinformatics (BIB), 2022 (JCR-Q1, IF: 9.5)  
+Briefings in Bioinformatics (BIB), 2022 (JCR-Q1, IF: 13.994)  
 
 - GBDT4CTRVis: Visual Analytics of Gradient Boosting Decision Tree for Advertisement Click-Through Rate Prediction [[PDF]](https://echochou990919.github.io/files/GBDT4CTRVis.pdf) [[Video]](https://www.bilibili.com/video/BV1Wm4y1E7Q1)[[Slide]](https://echochou990919.github.io/files/GBDT4CTRVis_Slides.pdf)  
 Wenwen Gao, Shangsong Liu, **Yi Zhou**, Fengjie Wang, Feng Zhou, Min Zhu  
-China Visualization and Visual Analytics Conference (ChinaVis), 2023  
+Journal of Visualization (JoV), 2024  
+
+- Dowsing: A Task-Driven Approach for Multiple-View Visualizations Dynamic Recommendation [[Webpage]](https://dowsing-machine.github.io/) [[Online Demo]](http://dowsing-machine.com/)  
+Jiamin Zhu, Meixuan Wu, **Yi Zhou**, Haotian Zhu, Min Zhu  
+Journal of Visualization (JoV), 2024  
 
 # Preprints
 
@@ -47,9 +51,9 @@ CN115831217A *(Under Substantial Examination)*
 - Method and System for Long Non-coding RNA-Disease Association Prediction Based on Self-Attention Mechanism  
 Min Zhu, **Yi Zhou**, Xinyi Wang, Lin Yao (**1st student author**)  
 CN115171780A *(Under Substantial Examination)*  
-- Method and System for Predicting Chromatin Topologically Associating Domains Based on Spectral Clustering  
+<!-- - Method and System for Predicting Chromatin Topologically Associating Domains Based on Spectral Clustering  
 Min Zhu, Chunlin Long, Mingyang Zhang, Xinyi Wang, **Yi Zhou**  
-CN114444286A *(Under Substantial Examination)*  
+CN114444286A *(Under Substantial Examination)*   -->
 
 <!-- [PDF](https://echochou990919.github.io/files/CN115171780A.pdf) -->
 <!-- [PDF](https://echochou990919.github.io/files/CN116303737A.pdf) -->
@@ -62,9 +66,7 @@ CN114444286A *(Under Substantial Examination)*
 
 - Sichuan University - Huawei MindSpore Application Case Implementation Project: Swin Transformer [[GitHub]](https://github.com/EchoChou990919/mindspore_swin_transformer)  
 **Yi Zhou**, Xiyao Li, Wanjing Zhang  
-- Dowsing: A Task-Driven Approach for Multiple-View Visualizations Dynamic Recommendation [[Webpage]](https://dowsing-machine.github.io/) [[Online Demo]](http://dowsing-machine.com/)  
-Jiamin Zhu, Meixuan Wu, **Yi Zhou**, Haotian Zhu, Min Zhu  
-Manuscript in the process of revision and resubmission  
+
 - DLMV: A Visual Analytic System for LncRNA-Disease Association Prediction [[Poster]](https://echochou990919.github.io/files/DLMV_Poster.pdf) [[Online Demo]](https://rna-disease.pages.dev/)  
 **Yi Zhou**, Jiamin Zhu, Meixuan Wu  
 

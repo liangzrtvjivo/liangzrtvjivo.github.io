@@ -27,11 +27,11 @@ B.E. in Computer Science and Technology, GPA: 3.77/4
 - Journal Reviewer:
   - Expert Systems With Applications (ESWA)
 
-# Other Positions
+# Other Services
 
-- Mentor of Bioinformatics Group, Vision Computing Lab, 2022-Present  
-**Mentoring** Meixuan Wu, Xiyao Li, Xian Guan and Lin Gan  
-Mentored Chengzhou Ouyang and Wanjing Zhang
+- Mentor of Bioinformatics Group, Vision Computing Lab, 2022-2024  
+Mentored Meixuan Wu, Xiyao Li, Wanjing Zhang, Xian Guan and Lin Gan  
+<!-- Mentored Chengzhou Ouyang and  -->
 <!-- Gogoing Projects: Prediction of various RNA-disease associations, Prediction of enhancer-promoter interactions, Prediction of RNA-protein interactions   -->
 - Living Manager, Vision Computing Lab, 2021-2023  
 Responsible for all non-working tasks  
