@@ -20,11 +20,11 @@ Please also find my publications on [Google Scholar](https://scholar.google.com/
 **Yi Zhou**, Xinyi Wang, Lin Yao, Min Zhu  
 Briefings in Bioinformatics (BIB), 2022 (JCR-Q1, IF: 13.994)  
 
-- GBDT4CTRVis: Visual Analytics of Gradient Boosting Decision Tree for Advertisement Click-Through Rate Prediction [[PDF]](https://echochou990919.github.io/files/GBDT4CTRVis.pdf) [[Video]](https://www.bilibili.com/video/BV1Wm4y1E7Q1)[[Slide]](https://echochou990919.github.io/files/GBDT4CTRVis_Slides.pdf)  
+- GBDT4CTRVis: Visual Analytics of Gradient Boosting Decision Tree for Advertisement Click-Through Rate Prediction [[PDF]](https://echochou990919.github.io/files/GBDT4CTRVis.pdf) [[DOI]](https://link.springer.com/article/10.1007/s12650-024-00984-0) [[Video]](https://www.bilibili.com/video/BV1Wm4y1E7Q1) [[Slide]](https://echochou990919.github.io/files/GBDT4CTRVis_Slides.pdf)  
 Wenwen Gao, Shangsong Liu, **Yi Zhou**, Fengjie Wang, Feng Zhou, Min Zhu  
 Journal of Visualization (JoV), 2024  
 
-- Dowsing: A Task-Driven Approach for Multiple-View Visualizations Dynamic Recommendation [[Webpage]](https://dowsing-machine.github.io/) [[Online Demo]](http://dowsing-machine.com/)  
+- Dowsing: A Task-Driven Approach for Multiple-View Visualizations Dynamic Recommendation [[PDF]](https://echochou990919.github.io/files/Dowsing.pdf) [[DOI]](https://link.springer.com/article/10.1007/s12650-024-00989-9) [[Webpage]](https://dowsing-machine.github.io/) [[Online Demo]](http://dowsing-machine.com/)  
 Jiamin Zhu, Meixuan Wu, **Yi Zhou**, Haotian Zhu, Min Zhu  
 Journal of Visualization (JoV), 2024  
 
@@ -49,7 +49,7 @@ CN116204704A *(Under Substantial Examination)*
 Min Zhu, Xiyao Li, Chunlin Long, **Yi Zhou**, Xinyi Wang  
 CN115831217A *(Under Substantial Examination)*  
 - Method and System for Long Non-coding RNA-Disease Association Prediction Based on Self-Attention Mechanism  
-Min Zhu, **Yi Zhou**, Xinyi Wang, Lin Yao (**1st student author**)  
+Min Zhu, **Yi Zhou**, Xinyi Wang, Lin Yao (**1st Student Author**)  
 CN115171780A *(Under Substantial Examination)*  
 <!-- - Method and System for Predicting Chromatin Topologically Associating Domains Based on Spectral Clustering  
 Min Zhu, Chunlin Long, Mingyang Zhang, Xinyi Wang, **Yi Zhou**  
