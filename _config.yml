@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yi Zhou's Homepage"
 title_separator          : "-"
 name                     : &name "Yi Zhou"
-description              : &description "M.S. Student, Sichuan University"
+description              : &description "Ph.D. Student, PolyU"
 url                      : https://echochou990919.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "EchoChou990919/EchoChou990919.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yi Zhou (周怡)"
   avatar           : "profile_nerd.jpg"
-  bio              : "M.S. Student, Sichuan University"
-  location         : Chengdu, China
+  bio              : "Ph.D. Student, PolyU"
+  location         : Hong Kong
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=yXOpclkAAAAJ"
-  email            : yizhou2@stu.scu.edu.cn
+  email            : echo-yi.zhou@connect.polyu.hk
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

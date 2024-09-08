@@ -28,10 +28,10 @@ Journal of Visualization (JoV), 2024
 Jiamin Zhu, Meixuan Wu, **Yi Zhou**, Haotian Zhu, Min Zhu  
 Journal of Visualization (JoV), 2024  
 
-# Preprints
+<!-- # Preprints
 
 - Generalizable and Explainable Prediction of Potential MiRNA-Disease Association based on Heterogeneous Graph Learning [[PDF]](https://echochou990919.github.io/files/EGPMDA.pdf) [[arXiv]](http://arxiv.org/abs/2307.07957) [[GitHub]](https://github.com/EchoChou990919/EGPMDA)  
-**Yi Zhou**, Meixuan Wu, Chengzhou Ouyang, Min Zhu  
+**Yi Zhou**, Meixuan Wu, Chengzhou Ouyang, Min Zhu   -->
 <!-- Knowledge-Based Systems (KBS) *(Under Review)* -->
 
 # Patents
