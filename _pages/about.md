@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello everyone! I am Yi Zhou, now a first-year PhD student in the [Department of Computing](https://www.polyu.edu.hk/comp/) of [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), under the supervision of Prof. [Wenqi Fan](https://wenqifan03.github.io/) and Prof. [Qing Li](https://www4.comp.polyu.edu.hk/~csqli/). Previously, I obtained master's degree from Sichuan University in 2024, advised by Prof. [Min Zhu](https://cs.scu.edu.cn/info/1279/13673.htm), and recieved bachelor's degree from Sichuan University in 2021, under the [Wu Yuzhang Honors program](https://www.scu.edu.cn/wyzxy/).
+Hello everyone! I am Yi Zhou, now a first-year PhD student in the [Department of Computing](https://www.polyu.edu.hk/comp/) of [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), under the supervision of Prof. [Wenqi Fan](https://wenqifan03.github.io/) and Prof. [Qing Li](https://www4.comp.polyu.edu.hk/~csqli/). Previously, I obtained my master's degree from Sichuan University in 2024, advised by Prof. [Min Zhu](https://cs.scu.edu.cn/info/1279/13673.htm), and recieved a bachelor's degree from Sichuan University in 2021, under the [Wu Yuzhang Honors program](https://www.scu.edu.cn/wyzxy/).
 
 <!-- Here is my [CV](https://echochou990919.github.io/files/YiZhou_CV.pdf). -->
 
@@ -22,8 +22,9 @@ My primary research interest is **AI4Science**, concretely using **Language Mode
 
 <!-- - [Jul. 2023] Chongqing, ChinaVis 2023 -->
 - [Sep. 2024] So happy to start my Ph.D. journey at PloyU!
+- [Jun. 2024] Graduate from Sichuan University and obtain my master’s degree.
 - [Apr. 2024] [Dowsing](https://link.springer.com/article/10.1007/s12650-024-00989-9) is accepted by Journal of Visualization, congrats to Jiamin!
 <!-- - [Oct. 2023] I have received a conditional offer from the Department of Computing, Hong Kong Polytechnic University. Looking forward to start my PhD journey under the supervision of Prof. [Wenqi Fan](https://wenqifan03.github.io/) and Prof. [Qing Li](https://www4.comp.polyu.edu.hk/~csqli/) from Fall 2024! -->
 <!-- - [Jul. 2023] [EGPMDA](http://arxiv.org/abs/2307.07957) is available online. I discussed the generalizability and explainability of miRNA-disease association prediction. -->
 - [Jun. 2023] [GBDT4CTRVis](https://link.springer.com/article/10.1007/s12650-024-00984-0) is accepted by ChinaVis 2023, congrats to Wenwen!
-- [Sep. 2022] [LDAformer](https://doi.org/10.1093/bib/bbac370) is accepted by Briefings in Bioinformatics. It's the best publication ever in the Bioinformatics Group of Vision Computing Lab.
+- [Sep. 2022] [LDAformer](https://doi.org/10.1093/bib/bbac370) is accepted by Briefings in Bioinformatics. It's the best publication ever in the Bioinformatics Group of [Vision Computing Lab](https://scuvis.org/).

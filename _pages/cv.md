@@ -23,7 +23,8 @@ B.E. in Computer Science and Technology, GPA: 3.77/4
 # Teaching
 
 <!--  (311301030) -->
-- Teaching Assistant: Data Visualization, Sichuan University (311301030), Fall 2023
+- Teaching Assistant:
+  - Data Visualization (311301030), Sichuan University, Fall 2023
 <!-- - Invited Teaching Assistant: Data Visualization, Sichuan University, Spring 2024 -->
 
 # Academic Services
