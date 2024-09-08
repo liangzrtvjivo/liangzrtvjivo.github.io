@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello everyone! I am Yi Zhou, now a first-year PhD student in the [Department of Computing](https://www.polyu.edu.hk/comp/) of [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), under the supervision of Prof. [Wenqi Fan](https://wenqifan03.github.io/) and Prof. [Qing Li](https://www4.comp.polyu.edu.hk/~csqli/). Previously, I obtained my master's degree from Sichuan University in 2024, advised by Prof. [Min Zhu](https://cs.scu.edu.cn/info/1279/13673.htm), and recieved a bachelor's degree from Sichuan University in 2021, under the [Wu Yuzhang Honors program](https://www.scu.edu.cn/wyzxy/).
+Hello everyone! I am Yi Zhou, now a first-year PhD student in the [Department of Computing](https://www.polyu.edu.hk/comp/) of [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), under the supervision of Prof. [Wenqi Fan](https://wenqifan03.github.io/) and Prof. [Qing Li](https://www4.comp.polyu.edu.hk/~csqli/). Previously, I obtained my master's degree in Computer Science and Technology from Sichuan University in 2024, advised by Prof. [Min Zhu](https://cs.scu.edu.cn/info/1279/13673.htm), and received a bachelor's degree in Computer Science and Technology from Sichuan University in 2021, under the [Wu Yuzhang Honors program](https://www.scu.edu.cn/wyzxy/).
 
 <!-- Here is my [CV](https://echochou990919.github.io/files/YiZhou_CV.pdf). -->
 
