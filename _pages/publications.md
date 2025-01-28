@@ -28,11 +28,14 @@ Journal of Visualization (JoV), 2024
 Jiamin Zhu, Meixuan Wu, **Yi Zhou**, Haotian Zhu, Min Zhu  
 Journal of Visualization (JoV), 2024  
 
-<!-- # Preprints
+- Timely-MDA: A Benchmark for Generalizable MiRNA-Disease Association Prediction [[PDF]](https://echochou990919.github.io/files/BIBM_Short_Paper_v2.pdf) [[DOI]](https://ieeexplore.ieee.org/abstract/document/10822171) [[Github]](https://github.com/EchoChou990919/Timely-MDA)  
+**Yi Zhou**, Xian Guan, Meixuan Wu, Chengzhou Ouyang, Min Zhu  
+International Conference on Bioinformatics and Biomedicine (BIBM), 2024
 
-- Generalizable and Explainable Prediction of Potential MiRNA-Disease Association based on Heterogeneous Graph Learning [[PDF]](https://echochou990919.github.io/files/EGPMDA.pdf) [[arXiv]](http://arxiv.org/abs/2307.07957) [[GitHub]](https://github.com/EchoChou990919/EGPMDA)  
-**Yi Zhou**, Meixuan Wu, Chengzhou Ouyang, Min Zhu   -->
-<!-- Knowledge-Based Systems (KBS) *(Under Review)* -->
+# Preprints
+
+- Computational Protein Science in the Era of Large Language Models (LLMs) [[PDF]](https://echochou990919.github.io/files/lm4protein_arxiv_v2.pdf) [[arXiv]](https://arxiv.org/abs/2501.10282)  
+Wenqi Fan, **Yi Zhou**, Shijie Wang, Yuyao Yan, Hui Liu, Qian Zhao, Le Song, Qing Li  
 
 # Patents
 

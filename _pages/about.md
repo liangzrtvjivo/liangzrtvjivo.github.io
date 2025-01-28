@@ -21,6 +21,8 @@ My primary research interest is **AI4Science**, concretely using **Language Mode
 # News
 
 <!-- - [Jul. 2023] Chongqing, ChinaVis 2023 -->
+- [Jan. 2025] New preprint "[Computational Protein Science in the Era of Large Language Models (LLMs)](https://arxiv.org/abs/2501.10282)" is online!
+- [Dec. 2025] [Timely-MDA](https://ieeexplore.ieee.org/abstract/document/10822171) is finally accpted by BIBM 2024!
 - [Sep. 2024] So happy to start my Ph.D. journey at PloyU!
 - [Jun. 2024] Graduate from Sichuan University and obtain my master’s degree.
 - [Apr. 2024] [Dowsing](https://link.springer.com/article/10.1007/s12650-024-00989-9) is accepted by Journal of Visualization, congrats to Jiamin!
