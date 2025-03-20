@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello everyone! I am Ziran Liang, now a first-year PhD student in the [Department of Computing](https://www.polyu.edu.hk/comp/) of [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), under the supervision of Prof. [Wenqi Fan](https://wenqifan03.github.io/) and Prof. [Qing Li](https://www4.comp.polyu.edu.hk/~csqli/). I obtained my master's degree from Sun Yat-sen University, advised by Prof. [Yanghui Rao](https://cse.sysu.edu.cn/teacher/RaoYanghui) and I received a bachelor's degree from Central South University(https://www.csu.edu.cn).
+Hello everyone! I am Ziran Liang, now a first-year PhD student in the [Department of Computing](https://www.polyu.edu.hk/comp/) of [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), under the supervision of Prof. [Wenqi Fan](https://wenqifan03.github.io/) and Prof. [Qing Li](https://www4.comp.polyu.edu.hk/~csqli/). I obtained my master's degree from [Sun Yat-sen University](https://www.sysu.edu.cn), advised by Prof. [Yanghui Rao](https://cse.sysu.edu.cn/teacher/RaoYanghui) and I received a bachelor's degree from [Central South University](https://www.csu.edu.cn).
 
 <!-- Here is my [CV](https://echochou990919.github.io/files/YiZhou_CV.pdf). -->
 
