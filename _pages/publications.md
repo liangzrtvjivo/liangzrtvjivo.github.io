@@ -48,7 +48,7 @@ International Conference on Bioinformatics and Biomedicine (BIBM), 2024 -->
 
 # Preprints
 
-- HiBench: Benchmarking LLMs Capability on Hierarchical Structure Reasoning [[PDF]](https://liangzrtvjivo.github.io/files/2025.arxiv.hibench.pdf) [[arXiv]](https://arxiv.org/pdf/2503.00912) [[GitHub]](https://github.com/jzzzzh/HiBench), 2025. 
+- HiBench: Benchmarking LLMs Capability on Hierarchical Structure Reasoning [[PDF]](https://liangzrtvjivo.github.io/files/2025.arxiv.hibench.pdf) [[arXiv]](https://arxiv.org/abs/2503.00912) [[GitHub]](https://github.com/jzzzzh/HiBench), 2025. 
 Zhuohang Jiang†, Pangjing Wu†, **Ziran Liang**†, Peter Q. Chen†, Xu Yuan†, Ye Jia†, Jiancheng Tu†, Chen Li, Peter H.F. Ng, Qing Li*  
 
 <!-- # Other Available Works
