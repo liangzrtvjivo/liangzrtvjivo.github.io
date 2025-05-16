@@ -19,7 +19,10 @@ My primary research interests include **Large Language Models (LLMs)**, **Embedd
 
 <!-- ***I am looking for a Ph.D. position in 24 fall***, and here is a [blog](https://echochou990919.github.io/posts/blog-post-1/) introducing my strong self-motivation. It's usually said that "connection is all you need" for the Ph.D. application, and while I currently have few connections with the community of Graph. However, let's look at it positively from the perspective of "Link Prediction", what an exciting process of cold start! I would appreciate any opportunity for collaboration.   -->
 
-<!-- # News -->
+# News
+
+- [May. 2025] Our benchmark [(HiBench: Benchmarking LLMs capability on hierarchical structure reasoning)](https://arxiv.org/abs/2503.00912) got accepted by KDD 2025.
+- [May. 2025] Our survey paper&tutorial [(A Survey of WebAgents: Towards Next-Generation AI Agents for Web Automation with Large Foundation Models)](https://arxiv.org/abs/2504.16432) got accepted by KDD 2025.
 
 <!-- - [Jul. 2023] Chongqing, ChinaVis 2023 -->
 <!-- - [Jan. 2025] New preprint "[Computational Protein Science in the Era of Large Language Models (LLMs)](https://arxiv.org/abs/2501.10282)" is online!
