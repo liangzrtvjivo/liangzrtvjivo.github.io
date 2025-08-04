@@ -21,8 +21,8 @@ My primary research interests include **Large Language Models (LLMs)**, **Embedd
 
 # News
 
-- [May. 2025] Our survey paper&tutorial [(A Survey of WebAgents: Towards Next-Generation AI Agents for Web Automation with Large Foundation Models)](https://doi.org/10.1145/3711896.3736555) got accepted by KDD 2025.
-- [May. 2025] Our benchmark [(HiBench: Benchmarking LLMs capability on hierarchical structure reasoning)](https://doi.org/10.1145/3711896.3737378) got accepted by KDD 2025.
+- [May. 2025] Our survey paper&tutorial [(A Survey of WebAgents: Towards Next-Generation AI Agents for Web Automation with Large Foundation Models)](https://dl.acm.org/doi/10.1145/3711896.3736555) got accepted by KDD 2025.
+- [May. 2025] Our benchmark [(HiBench: Benchmarking LLMs capability on hierarchical structure reasoning)](https://dl.acm.org/doi/10.1145/3711896.3737378) got accepted by KDD 2025.
 
 <!-- - [Jul. 2023] Chongqing, ChinaVis 2023 -->
 <!-- - [Jan. 2025] New preprint "[Computational Protein Science in the Era of Large Language Models (LLMs)](https://arxiv.org/abs/2501.10282)" is online!
