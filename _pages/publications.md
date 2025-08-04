@@ -34,25 +34,10 @@ embedding learning [J] [[PDF]](https://liangzrtvjivo.github.io/files/2023.jsjkx.
 
 - Yuyin Lu, Xin Cheng, **Ziran Liang**, Yanghui Rao*. Graph-based dynamic word embeddings [[PDF]](https://liangzrtvjivo.github.io/files/2022.ijcai.gdwe.pdf) [[DOI]](https://www.ijcai.org/proceedings/2022/594) [[GitHub]](https://github.com/luyy9apples/GDWE). Proceedings of the 31st International Joint Conference on Artificial Intelligence (IJCAI), 2022. (CCF-A)
 
-<!-- - LDAformer: Predicting LncRNA-Disease Associations based on Topological Feature Extraction and Transformer Encoder [[PDF]](https://echochou990919.github.io/files/LDAformer.pdf) [[DOI]](https://doi.org/10.1093/bib/bbac370) [[GitHub]](https://github.com/EchoChou990919/LDAformer)  
-**Yi Zhou**, Xinyi Wang, Lin Yao, Min Zhu  
-Briefings in Bioinformatics (BIB), 2022 (JCR-Q1, IF: 13.994)  
-
-- GBDT4CTRVis: Visual Analytics of Gradient Boosting Decision Tree for Advertisement Click-Through Rate Prediction [[PDF]](https://echochou990919.github.io/files/GBDT4CTRVis.pdf) [[DOI]](https://link.springer.com/article/10.1007/s12650-024-00984-0) [[Video]](https://www.bilibili.com/video/BV1Wm4y1E7Q1) [[Slide]](https://echochou990919.github.io/files/GBDT4CTRVis_Slides.pdf)  
-Wenwen Gao, Shangsong Liu, **Yi Zhou**, Fengjie Wang, Feng Zhou, Min Zhu  
-Journal of Visualization (JoV), 2024  
-
-- Dowsing: A Task-Driven Approach for Multiple-View Visualizations Dynamic Recommendation [[PDF]](https://echochou990919.github.io/files/Dowsing.pdf) [[DOI]](https://link.springer.com/article/10.1007/s12650-024-00989-9) [[Webpage]](https://dowsing-machine.github.io/) [[Online Demo]](http://dowsing-machine.com/)  
-Jiamin Zhu, Meixuan Wu, **Yi Zhou**, Haotian Zhu, Min Zhu  
-Journal of Visualization (JoV), 2024  
-
-- Timely-MDA: A Benchmark for Generalizable MiRNA-Disease Association Prediction [[PDF]](https://echochou990919.github.io/files/BIBM_Short_Paper_v2.pdf) [[DOI]](https://ieeexplore.ieee.org/abstract/document/10822171) [[Github]](https://github.com/EchoChou990919/Timely-MDA)  
-**Yi Zhou**, Xian Guan, Meixuan Wu, Chengzhou Ouyang, Min Zhu  
-International Conference on Bioinformatics and Biomedicine (BIBM), 2024 -->
 
 # Preprints
 
-- Rui An, Yifeng Zhang, **Ziran Liang**, Wenqi Fan, Yuxuan Liang, Xuequn Shang*, Qing Li*. Damba-ST: Domain-Adaptive Mamba for Efficient Urban Spatio-Temporal Prediction [[PDF]](https://liangzrtvjivo.github.io/files/2025.arxiv.damba.pdf) [[arXiv]](https://arxiv.org/abs/2506.18939). 2025. 
+- Rui An, Yifeng Zhang, **Ziran Liang**, Wenqi Fan, Yuxuan Liang, Xuequn Shang\*, Qing Li\*. Damba-ST: Domain-Adaptive Mamba for Efficient Urban Spatio-Temporal Prediction [[PDF]](https://liangzrtvjivo.github.io/files/2025.arxiv.damba.pdf) [[arXiv]](https://arxiv.org/abs/2506.18939). 2025. 
 
 - **Ziran Liang**, Rui An, Wenqi Fan*, Yanghui Rao, Yuxuan Liang. iTFKAN: Interpretable Time Series Forecasting with Kolmogorov-Arnold Network [[PDF]](https://liangzrtvjivo.github.io/files/2025.arxiv.itfkan.pdf) [[arXiv]](https://arxiv.org/abs/2504.16432). 2025. 
 
