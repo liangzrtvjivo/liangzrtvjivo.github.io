@@ -52,7 +52,7 @@ International Conference on Bioinformatics and Biomedicine (BIBM), 2024 -->
 
 # Preprints
 
-- Rui An, Yifeng Zhang, **Ziran Liang**, Wenqi Fan, Yuxuan Liang, Xuequn Shang*, Qing Li*. Damba-ST: Domain-Adaptive Mamba for Efficient Urban Spatio-Temporal Prediction [[PDF]](https://liangzrtvjivo.github.io/files/2025.arxiv.itfkan.pdf) [[arXiv]](https://arxiv.org/abs/2506.18939). 2025. 
+- Rui An, Yifeng Zhang, **Ziran Liang**, Wenqi Fan, Yuxuan Liang, Xuequn Shang*, Qing Li*. Damba-ST: Domain-Adaptive Mamba for Efficient Urban Spatio-Temporal Prediction [[PDF]](https://liangzrtvjivo.github.io/files/2025.arxiv.damba.pdf) [[arXiv]](https://arxiv.org/abs/2506.18939). 2025. 
 
 - **Ziran Liang**, Rui An, Wenqi Fan*, Yanghui Rao, Yuxuan Liang. iTFKAN: Interpretable Time Series Forecasting with Kolmogorov-Arnold Network [[PDF]](https://liangzrtvjivo.github.io/files/2025.arxiv.itfkan.pdf) [[arXiv]](https://arxiv.org/abs/2504.16432). 2025. 
 
