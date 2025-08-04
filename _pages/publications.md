@@ -18,6 +18,10 @@ author_profile: true
 
 # Papers
 
+- Liangbo Ning†, **Ziran Liang**†, Zhuohang Jiang, Haohao Qu, Yujuan Ding, Wenqi Fan\*, Xiao-yong Wei, Shanru Lin, Hui Liu, Philip S. Yu, Qing Li\*. A Survey of WebAgents: Towards Next-Generation AI Agents for Web Automation with Large Foundation Models [[PDF]](https://liangzrtvjivo.github.io/files/2025.kdd.webagentsurvey.pdf) [[DOI]](https://doi.org/10.1145/3711896.3736555) [[Tutorial]](https://biglemon-ning.github.io/WebAgents/
+). Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2 (KDD), 2025. (CCF-A) 
+
+- Zhuohang Jiang†, Pangjing Wu†, **Ziran Liang**†, Peter Q. Chen†, Xu Yuan†, Ye Jia†, Jiancheng Tu†, Chen Li, Peter H.F. Ng, Qing Li*. HiBench: Benchmarking LLMs capability on hierarchical structure reasoning [[PDF]](https://liangzrtvjivo.github.io/files/2025.kdd.hibench.pdf) [[DOI]](https://doi.org/10.1145/3711896.3737378) [[GitHub]](https://github.com/jzzzzh/HiBench). Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2 (KDD), 2025. (CCF-A)  
 
 
 - **Ziran Liang**, Yuyin Lu, Hegang Chen, Yanghui Rao*. Graph-based relation mining for context-free out-of-vocabulary
@@ -49,10 +53,6 @@ International Conference on Bioinformatics and Biomedicine (BIBM), 2024 -->
 # Preprints
 
 - **Ziran Liang**, Rui An, Wenqi Fan*, Yanghui Rao, Yuxuan Liang. iTFKAN: Interpretable Time Series Forecasting with Kolmogorov-Arnold Network [[PDF]](https://liangzrtvjivo.github.io/files/2025.arxiv.itfkan.pdf) [[arXiv]](https://arxiv.org/abs/2504.16432). 2025. 
-
-- Liangbo Ning, **Ziran Liang**, Zhuohang Jiang, Haohao Qu, Yujuan Ding, Wenqi Fan\*, Xiao-yong Wei, Shanru Lin, Hui Liu, Philip S. Yu, Qing Li\*. A Survey of WebAgents: Towards Next-Generation AI Agents for Web Automation with Large Foundation Models [[PDF]](https://liangzrtvjivo.github.io/files/2025.arxiv.webagentsurvey.pdf) [[arXiv]](https://arxiv.org/abs/2503.23350). 2025. 
-
-- Zhuohang Jiang†, Pangjing Wu†, **Ziran Liang**†, Peter Q. Chen†, Xu Yuan†, Ye Jia†, Jiancheng Tu†, Chen Li, Peter H.F. Ng, Qing Li*. HiBench: Benchmarking LLMs capability on hierarchical structure reasoning [[PDF]](https://liangzrtvjivo.github.io/files/2025.arxiv.hibench.pdf) [[arXiv]](https://arxiv.org/abs/2503.00912) [[GitHub]](https://github.com/jzzzzh/HiBench). 2025. 
 
 
 <!-- # Other Available Works
