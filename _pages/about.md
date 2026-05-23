@@ -21,6 +21,7 @@ My primary research interests include **Large Language Models (LLMs)**, **Embedd
 
 # News
 
+- [May 2026] Our paper [(Double-Calibration: Towards Trustworthy LLMs via Calibrating Knowledge and Reasoning Confidence)](https://arxiv.org/abs/2601.11956v2) got accepted by IJCAI 2026. Many Congratulations to Yuyin~🎉🎉
 - [Oct. 2025] Our paper [(Damba-ST: Domain-Adaptive Mamba for Efficient Urban Spatio-Temporal Prediction)](https://arxiv.org/abs/2506.18939) got accepted by ICDE 2026. Congratulations to Rui An~🎉🎉
 - [May. 2025] Our survey paper&tutorial [(A Survey of WebAgents: Towards Next-Generation AI Agents for Web Automation with Large Foundation Models)](https://dl.acm.org/doi/10.1145/3711896.3736555) got accepted by KDD 2025.
 - [May. 2025] Our benchmark [(HiBench: Benchmarking LLMs capability on hierarchical structure reasoning)](https://dl.acm.org/doi/10.1145/3711896.3737378) got accepted by KDD 2025.

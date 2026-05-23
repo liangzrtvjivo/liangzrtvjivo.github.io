@@ -18,6 +18,8 @@ author_profile: true
 
 # Papers
 
+- Yuyin Lu, **Ziran Liang**, Yanghui Rao\*, Wenqi Fan, Fu Lee Wang, Qing Li. Double-Calibration: Towards Trustworthy LLMs via Calibrating Knowledge and Reasoning Confidence [[PDF]](https://liangzrtvjivo.github.io/files/2026.ijcai.doublecal.pdf) [[arXiv]](https://arxiv.org/abs/2601.11956v2). 2026. Accepted by IJCAI 2026. (CCF-B)
+
 - Rui An, Yifeng Zhang, **Ziran Liang**, Wenqi Fan, Yuxuan Liang, Xuequn Shang\*, Qing Li\*. Damba-ST: Domain-Adaptive Mamba for Efficient Urban Spatio-Temporal Prediction [[PDF]](https://liangzrtvjivo.github.io/files/2025.arxiv.damba.pdf) [[arXiv]](https://arxiv.org/abs/2506.18939). 2025. Accepted by ICDE 2026. (CCF-A) 
 
 - Liangbo Ning†, **Ziran Liang**†, Zhuohang Jiang, Haohao Qu, Yujuan Ding, Wenqi Fan\*, Xiao-yong Wei, Shanru Lin, Hui Liu, Philip S. Yu, Qing Li\*. A Survey of WebAgents: Towards Next-Generation AI Agents for Web Automation with Large Foundation Models [[PDF]](https://liangzrtvjivo.github.io/files/2025.kdd.webagentsurvey.pdf) [[DOI]](https://dl.acm.org/doi/10.1145/3711896.3736555) [[Tutorial]](https://biglemon-ning.github.io/WebAgents/). Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2 (KDD), 2025. (CCF-A) 
